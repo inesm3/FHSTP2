@@ -7,3 +7,4 @@ The frequencies from 125 Hz to 8000 Hz should be already given.
 The cells for the hearing levels should be an empty text field, where the users put in the decibel from the hearing test.
 
 Output: A flow chart which resembles the changes 
+The flow chart should represent the improvement or the deterioration of the hearing level. As a lower number of decibel is considered better hearing, the lower numbers resemble improvement.
