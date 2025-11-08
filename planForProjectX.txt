@@ -1,0 +1,9 @@
+Project: Hearing Test
+Goal: Create a flow chart which resembles the improvement or the deterioration of the hearing level from ones appointment to another
+
+User-Input: Users can put in the date and hearing level at a specific frequency in a table
+The table on the website should have two columns (the frequency and the hearing level) and one text field for the date.
+The frequencies from 125 Hz to 8000 Hz should be already given.
+The cells for the hearing levels should be an empty text field, where the users put in the decibel from the hearing test.
+
+Output: A flow chart which resembles the changes 
